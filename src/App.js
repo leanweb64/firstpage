@@ -13,6 +13,7 @@ function App() {
           <li>Excursion</li>
           <li>Pics</li>
         </ul>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, recusandae sequi minima, inventore, nulla doloribus veniam facere maxime blanditiis voluptatem soluta fugit dicta fugiat cumque animi excepturi architecto delectus voluptas?</p>
        </div>
 
        
